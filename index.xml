@@ -350,7 +350,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/blockquote>
 &lt;p>实验室线下地点：江西师范大学&lt;/p>
 &lt;p>联系邮箱： &lt;a href="lin.wenzheng@aliyun.com">lin.wenzheng@aliyun.com&lt;/a>&lt;/p>
-&lt;p>如果阿里云邮箱出现邮件拒收，可发 &lt;a href="psywzlin@gmail.com">psywzlin@gmail.com&lt;/a> 或 &lt;a href="new@linwz.com">new@linwz.com&lt;/a>&lt;/p>
+&lt;p>如果阿里云邮箱出现邮件拒收，可发 &lt;a href="psywzlin@gmail.com">psywzlin@gmail.com&lt;/a> 或 &lt;a href="recruit@linwz.com">recruit@linwz.com&lt;/a>&lt;/p>
 &lt;p>邮件内容请尽量简短，写明姓名、本科院校（研究生）、年级班级（本科生）等基本信息与联系目的即可。可以不写你对于心理学、研究方向的想法与感悟。如有简历，可附上，简历内容尽量包含已修课程、英语成绩、学术技能（编程语言、数据分析等）等。&lt;/p>
 &lt;p>实验室研究领域和兴趣可参考&lt;a href="https://www.linwz.com/#about" target="_blank" rel="noopener">主页&lt;/a>。但你的兴趣领域在社会心理学、人格心理学、管理心理学（组织行为学）、消费心理学（广告与营销）等行为学领域开展研究，我都愿意（可能大概也有一定能力）共同探索。&lt;/p>
 &lt;h1 id="研究生招募">研究生招募&lt;/h1>
@@ -655,7 +655,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-814297635" class="chart">&lt;/div>
+&lt;div id="chart-325961478" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -664,7 +664,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-814297635', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-325961478', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
