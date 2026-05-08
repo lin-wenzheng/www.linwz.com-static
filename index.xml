@@ -9,7 +9,52 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://docs.hugoblox.com/reference/markdown/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://docs.hugoblox.com/reference/markdown/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>远程打印教程</title><link>https://www.linwz.com/post/test/</link><pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate><guid>https://www.linwz.com/post/test/</guid><description>&lt;p>背景知识：打印机目前位于洁琼楼220，打印前提前跟老师说明。&lt;/p>
+&lt;p>Further event details, including &lt;a href="https://docs.hugoblox.com/reference/markdown/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>本科论文注意事项</title><link>https://www.linwz.com/post/undergraduatethesis/</link><pubDate>Wed, 06 May 2026 14:36:23 +0000</pubDate><guid>https://www.linwz.com/post/undergraduatethesis/</guid><description>&lt;h2 id="本科论文注意事项">本科论文注意事项&lt;/h2>
+&lt;ul>
+&lt;li>不要做别人做烂的东西
+&lt;ul>
+&lt;li>本科同学常见变量：社交焦虑、抑郁、拖延、自我效能感、心理韧性、父母教养方式、学业压力、成就动机、短视频、游戏成瘾……&lt;/li>
+&lt;li>以及不同年级特有的流行变量：2026-反刍思维&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>理论有限、创新性优先
+&lt;ul>
+&lt;li>有理论支持不等于变量关系被别人验证过&lt;/li>
+&lt;li>如果一个模型里的几个变量关系，都被别人研究验证过，把它们组合在一起不是创新性&lt;/li>
+&lt;li>做自变量和因变量没被人研究过的题目
+&lt;ul>
+&lt;li>理论用于说明为什么这两个变量《应该》有关系&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>先搞清楚什么叫中介，什么叫调节/交互作用&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>可重复
+&lt;ul>
+&lt;li>预注册+功效分析&lt;/li>
+&lt;li>原始数据&lt;/li>
+&lt;li>代码处理数据+分析数据（推荐R,用rmd/qmd撰写数据报告，knit成html）&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>AI使用
+&lt;ul>
+&lt;li>在每个研究阶段都善于并乐于使用AI辅助&lt;/li>
+&lt;li>AI是工具，不是你的大脑替代品&lt;/li>
+&lt;li>在你知道自己在做什么，要什么结果，需要学习什么时，使用ai辅助，用自己的能力判断AI给出的结果是否正确&lt;/li>
+&lt;li>你自己无法独立完成的工作，也不要相信AI能帮你完成&lt;/li>
+&lt;li>你有论文指导老师，学会主动张嘴，学会如何提问&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>格式、写作规范
+&lt;ul>
+&lt;li>至少完整精读5篇跟你研究主题有关的高水平论文，必须包含英文文献&lt;/li>
+&lt;li>至少找到3篇在格式和数据分析方法上你可以借鉴的心理学报论文，参照它们组织你的论文内容，包括前言、文献综述、讨论；尤其是方法和数据结果报告！&lt;/li>
+&lt;li>给出所使用的量表原文放在附录&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>毕业论文不要求结果要显著或者符合假设&lt;/li>
+&lt;li>我希望本科阶段的你们做有意思的、天马行空、自己感兴趣的研究&lt;/li>
+&lt;/ul></description></item><item><title>远程打印教程</title><link>https://www.linwz.com/post/test/</link><pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate><guid>https://www.linwz.com/post/test/</guid><description>&lt;p>背景知识：打印机目前位于洁琼楼220，打印前提前跟老师说明。&lt;/p>
 &lt;h2 id="使用前必读">使用前必读&lt;/h2>
 &lt;ul>
 &lt;li>
@@ -650,7 +695,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-257639814" class="chart">&lt;/div>
+&lt;div id="chart-712835649" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -659,7 +704,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-257639814', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-712835649', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -983,52 +1028,7 @@ data-background-image="/media/boards.jpg"
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
 &lt;h1 id="questions">Questions?&lt;/h1>
 &lt;p>&lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://docs.hugoblox.com/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>The procrastinators want it now: Behavioral and event-related potential evidence of the procrastination of intertemporal choices</title><link>https://www.linwz.com/publication/the-procrastinators-want-it-now-behavioral-and-event-related-potential-evidence-of-the-procrastination-of-intertemporal-choices/</link><pubDate>Thu, 07 Jul 2016 13:13:48 +0000</pubDate><guid>https://www.linwz.com/publication/the-procrastinators-want-it-now-behavioral-and-event-related-potential-evidence-of-the-procrastination-of-intertemporal-choices/</guid><description/></item><item><title/><link>https://www.linwz.com/post/undergraduatethesis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.linwz.com/post/undergraduatethesis/</guid><description>&lt;h2 id="本科论文注意事项">本科论文注意事项&lt;/h2>
-&lt;ul>
-&lt;li>不要做别人做烂的东西
-&lt;ul>
-&lt;li>本科同学常见变量：社交焦虑、抑郁、拖延、自我效能感、心理韧性、父母教养方式、学业压力、成就动机、短视频、游戏成瘾……&lt;/li>
-&lt;li>以及不同年级特有的流行变量：2026-反刍思维&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>理论有限、创新性优先
-&lt;ul>
-&lt;li>有理论支持不等于变量关系被别人验证过&lt;/li>
-&lt;li>如果一个模型里的几个变量关系，都被别人研究验证过，把它们组合在一起不是创新性&lt;/li>
-&lt;li>做自变量和因变量没被人研究过的题目
-&lt;ul>
-&lt;li>理论用于说明为什么这两个变量《应该》有关系&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>先搞清楚什么叫中介，什么叫调节/交互作用&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>可重复
-&lt;ul>
-&lt;li>预注册+功效分析&lt;/li>
-&lt;li>原始数据&lt;/li>
-&lt;li>代码处理数据+分析数据（推荐R,用rmd/qmd撰写数据报告，knit成html）&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>AI使用
-&lt;ul>
-&lt;li>在每个研究阶段都善于并乐于使用AI辅助&lt;/li>
-&lt;li>AI是工具，不是你的大脑替代品&lt;/li>
-&lt;li>在你知道自己在做什么，要什么结果，需要学习什么时，使用ai辅助，用自己的能力判断AI给出的结果是否正确&lt;/li>
-&lt;li>你自己无法独立完成的工作，也不要相信AI能帮你完成&lt;/li>
-&lt;li>你有论文指导老师，学会主动张嘴，学会如何提问&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>格式、写作规范
-&lt;ul>
-&lt;li>至少完整精读5篇跟你研究主题有关的高水平论文，必须包含英文文献&lt;/li>
-&lt;li>至少找到3篇在格式和数据分析方法上你可以借鉴的心理学报论文，参照它们组织你的论文内容，包括前言、文献综述、讨论；尤其是方法和数据结果报告！&lt;/li>
-&lt;li>给出所使用的量表原文放在附录&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>毕业论文不要求结果要显著或者符合假设&lt;/li>
-&lt;li>我希望本科阶段的你们做有意思的、天马行空、自己感兴趣的研究&lt;/li>
-&lt;/ul></description></item><item><title/><link>https://www.linwz.com/slides/cgss/data_report/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.linwz.com/slides/cgss/data_report/</guid><description>&lt;?xml version="1.0" encoding="utf-8" ?>
+&lt;p>&lt;a href="https://docs.hugoblox.com/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>The procrastinators want it now: Behavioral and event-related potential evidence of the procrastination of intertemporal choices</title><link>https://www.linwz.com/publication/the-procrastinators-want-it-now-behavioral-and-event-related-potential-evidence-of-the-procrastination-of-intertemporal-choices/</link><pubDate>Thu, 07 Jul 2016 13:13:48 +0000</pubDate><guid>https://www.linwz.com/publication/the-procrastinators-want-it-now-behavioral-and-event-related-potential-evidence-of-the-procrastination-of-intertemporal-choices/</guid><description/></item><item><title/><link>https://www.linwz.com/slides/cgss/data_report/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.linwz.com/slides/cgss/data_report/</guid><description>&lt;?xml version="1.0" encoding="utf-8" ?>
 &lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 &lt;html xmlns="http://www.w3.org/1999/xhtml">
 &lt;head>
