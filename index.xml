@@ -468,7 +468,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;li>希望从大一大二时就能尽快初步开展研究尽早完成毕业论文&lt;/li>
 &lt;li>请参考研究生招募内容，对老师和课题组有一个基本的了解&lt;/li>
 &lt;li>如果想要开展学术研究或学习，请一定主动联系老师（老师很少会主动问你要不要做什么），并视自身学业情况学会拒绝老师&lt;/li>
-&lt;li>关于本科毕业论文的要求，请参考 &lt;a href="https://www.linwz.com/post/undergraduateThesis/">本科毕业论文注意事项&lt;/a>&lt;/li>
+&lt;li>关于本科毕业论文的要求，请参考 &lt;a href="https://www.linwz.com/post/undergraduatethesis/">本科毕业论文注意事项&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="示警">示警&lt;/h2>
 &lt;ul>
@@ -696,7 +696,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-216384579" class="chart">&lt;/div>
+&lt;div id="chart-468315927" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -705,7 +705,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-216384579', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-468315927', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
