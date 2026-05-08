@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | 社会认知与人格实验室|林闻正</title><link>https://www.linwz.com/post/</link><atom:link href="https://www.linwz.com/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 May 2026 14:36:23 +0000</lastBuildDate><image><url>https://www.linwz.com/media/icon_hu75f3c8a8dfeb511f4db73a322318d1ea_1517863_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://www.linwz.com/post/</link></image><item><title>本科论文注意事项</title><link>https://www.linwz.com/post/undergraduatethesis/</link><pubDate>Wed, 06 May 2026 14:36:23 +0000</pubDate><guid>https://www.linwz.com/post/undergraduatethesis/</guid><description>&lt;h2 id="本科论文注意事项">本科论文注意事项&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | 社会认知与人格实验室|林闻正</title><link>https://www.linwz.com/post/</link><atom:link href="https://www.linwz.com/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 May 2026 00:00:00 +0000</lastBuildDate><image><url>https://www.linwz.com/media/icon_hu75f3c8a8dfeb511f4db73a322318d1ea_1517863_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://www.linwz.com/post/</link></image><item><title>本科论文注意事项</title><link>https://www.linwz.com/post/undergraduatethesis/</link><pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate><guid>https://www.linwz.com/post/undergraduatethesis/</guid><description>&lt;h2 id="本科论文注意事项">本科论文注意事项&lt;/h2>
 &lt;ul>
 &lt;li>不要做别人做烂的东西
 &lt;ul>
@@ -444,7 +444,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-712835649" class="chart">&lt;/div>
+&lt;div id="chart-713964582" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -453,7 +453,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-712835649', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-713964582', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
