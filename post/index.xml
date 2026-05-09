@@ -2,7 +2,7 @@
 &lt;ul>
 &lt;li>不要做别人做烂的东西
 &lt;ul>
-&lt;li>本科同学常见变量：社交焦虑、抑郁、拖延、自我效能感、心理韧性、父母教养方式、学业压力、成就动机、短视频、游戏成瘾……&lt;/li>
+&lt;li>本科同学常见变量：社交焦虑、抑郁、拖延、自我效能感、心理韧性、父母教养方式、学业压力、成就动机、短视频、游戏成瘾、内卷、躺平、手机依赖……&lt;/li>
 &lt;li>以及不同年级特有的流行变量：2026-反刍思维&lt;/li>
 &lt;/ul>
 &lt;/li>
@@ -10,9 +10,9 @@
 &lt;ul>
 &lt;li>有理论支持不等于变量关系被别人验证过&lt;/li>
 &lt;li>如果一个模型里的几个变量关系，都被别人研究验证过，把它们组合在一起不是创新性&lt;/li>
-&lt;li>做自变量和因变量没被人研究过的题目
+&lt;li>做自变量和因变量的关系没被人研究过的题目
 &lt;ul>
-&lt;li>理论用于说明为什么这两个变量《应该》有关系&lt;/li>
+&lt;li>理论用于说明为什么这两个变量《应该》有关系，而不是关系已经被人验证过了&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>先搞清楚什么叫中介，什么叫调节/交互作用&lt;/li>
@@ -444,7 +444,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-468315927" class="chart">&lt;/div>
+&lt;div id="chart-759184362" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -453,7 +453,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-468315927', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-759184362', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
